@@ -1,0 +1,36 @@
+body{
+    background-image: url(001.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: sticky;
+    background-position: sticky;
+}
+h1{
+    color: chartreuse;
+    font-family: 'Sansita Swashed', cursive;
+}
+.main{
+    align-items: center;
+}
+#image{
+    width: 400px;
+    border-color: chartreuse;
+    border-radius: 400px;
+    float: left;
+    margin: 10px;
+    shape-outside: circle();
+    margin: 30px;
+}
+.content{
+    color:gold;
+    font-family: 'Marck Script', cursive;
+    font-weight: bold;
+    background-color: transparent;
+    border-radius: 150px;
+    margin-top: 20px;
+}
+footer{
+    color: darkgray;
+    margin-top: 70px;
+}
